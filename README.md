@@ -8,8 +8,8 @@ Exploratory data analysis for a new restaurant in downtown Johnson City, Tenness
 * With insufficient data for predictive modeling, solved the business problem with exploratory data analysis
 * Delivered a Jupyter notebook, full report, and powerpoint presentation
     
-    > ### [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
-    > ### [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
+    > ### [Report](https://github.com/burrittresearch/johnson-city-restaurants/blob/master/restaurants-jc-report.pdf 'Report')
+    > ### [Powerpoint](https://github.com/burrittresearch/johnson-city-restaurants/blob/master/restaurants-jc-presentation.pdf 'Presentation')
 
 ## Contact: Wayne Burritt
 
